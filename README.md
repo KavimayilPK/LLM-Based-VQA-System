@@ -34,7 +34,10 @@ Download it here: https://visualqa.org/download.html
 ![Alt text](/surfer.jpg)
 
 Caption (Generated): A man in a red wetsuit is riding a wave.
+
 Input Question: How does the wetsuit help the man while riding the wave?
+
 Answer (Model): The wetsuit protects the man from the cold water.
+
 Ground Truth: It keeps him warm and protects him from the cold water.
 
