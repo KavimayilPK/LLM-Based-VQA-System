@@ -17,10 +17,15 @@ Traditional VQA models are limited to information directly present in the image.
 ## Requirements
 
 Python 3.8+
+
 TensorFlow
+
 Transformers (transformers by HuggingFace)
+
 Pillow
+
 numpy
+
 All dependencies are listed in requirements.txt.
 
 ## Dataset
